@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/browserdriver/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/browserdriver/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/browserdriver/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/browserdriver/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/browserdriver/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/browserdriver/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/browserdriver/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/docker-java-3.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/docker-java-api-3.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/docker-java-core-3.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/docker-java-transport-3.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/docker-java-transport-httpclient5-3.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/jna-5.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/slf4j-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/WebDriverManager Jars/webdrivermanager-5.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
